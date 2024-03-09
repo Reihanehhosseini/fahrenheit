@@ -47,3 +47,5 @@ convertButton.addEventListener("click", function () {
     }
   }
 });
+
+let newNumber = 10 ;
