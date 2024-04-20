@@ -49,4 +49,3 @@ convertButton.addEventListener("click", function () {
 });
 console.log("hello its master!");
 
-let myNewPet = "happy"
