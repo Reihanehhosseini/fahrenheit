@@ -47,5 +47,4 @@ convertButton.addEventListener("click", function () {
     }
   }
 });
-console.log("hello its master!");
 
